@@ -44,7 +44,7 @@
 ## 🌐 &nbsp; Social Links
 
 <p align="left" style="background:yellow">
-  <a href="www.linkedin.com/in/allysonbarros" target="_blank">
+  <a href="https://linkedin.com/in/allysonbarros" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-allysonbarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   
