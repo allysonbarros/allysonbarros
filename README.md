@@ -44,16 +44,12 @@
 ## 🌐 &nbsp; Social Links
 
 <p align="left" style="background:yellow">
-  <a href="https://twitter.com/allysonbarros" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-allysonbarros-05122A?style=flat&logo=twitter" alt="twitter"/>  
-  </a>
-
   <a href="www.linkedin.com/in/allysonbarros" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-allysonbarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
-
-  <a href="https://instagram.com/allysonbarros" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-allysonbarros-05122A?style=flat&logo=instagram" alt="instagram"/>
+  
+  <a href="https://twitter.com/allysonbarros" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-allysonbarros-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
 </p>
 
