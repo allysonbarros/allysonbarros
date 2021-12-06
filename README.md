@@ -1,10 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Allyson Barros!</h1>
 
-- 👨🏽‍💻 &nbsp; Sênior Web Developer & Tech Lead focused on digital transformation in the Brazilian government
+- 👨🏽‍💻 &nbsp; Sênior Backend Developer (Python, Node.JS, PHP) & Tech Lead focused on digital transformation in the Brazilian government
 
 - 🔥 &nbsp; Passionate about technology and innovation since childhood, working in the Software Development area for over 10 years
 
-- 📡 &nbsp; I'm currently working as Software Engineering Coordinator at [Ministry of Communications (Brazil)](https://www.gov.br/mcom/pt-br)
+- 📡 &nbsp; I'm currently working as Software Engineering Manager at [Ministry of Communications (Brazil)](https://www.gov.br/mcom/pt-br)
 
 - 🔬 &nbsp; Also working as Research & Tech Lead making Science an instrument of fraternal love at [Laboratory of Technological Innovation in Health / LAIS](https://lais.huol.ufrn.br/en/)
 
