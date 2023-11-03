@@ -1,18 +1,18 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Allyson Barros!</h1>
+<h1 align="left">Hi 👋, I'm Allyson Barros!</h1>
 
-- 👨🏽‍💻 &nbsp; Sênior Backend Developer (Python, Node.JS, PHP) & Tech Lead focused on digital transformation in the Brazilian government
+- 👨🏽‍💻 &nbsp; Sênior Backend Developer (Python, Node.JS, PHP), Data Engineer & MLOps Engineer
 
 - 🔥 &nbsp; Passionate about technology and innovation since childhood, working in the Software Development area for over 10 years
 
-- 📡 &nbsp; I'm currently working as Software Engineering Manager at [Ministry of Communications (Brazil)](https://www.gov.br/mcom/pt-br)
+- 📡 &nbsp; I'm currently working as Data & Business Intelligence Manager at [Embratur](https://embratur.com.br/)
 
 - 🔬 &nbsp; Also working as Research & Tech Lead making Science an instrument of fraternal love at [Laboratory of Technological Innovation in Health / LAIS](https://lais.huol.ufrn.br/en/)
 
-- 🌱 &nbsp; I’m currently learning **DevOps, SRE, Kubernetes, Clean Code & Clean Architecture, Microservice Architecture, Serverless Architecture**
+- 🌱 &nbsp; I’m currently learning **Machine Learning, DataOps, Artificial Intelligence**
 
 - 💬 &nbsp; Ask me about **Python, Django, JavaScript, HTML, CSS, NoSQL, Node.JS**
 
-- 📫 &nbsp; How to reach me: allyson.barros@mcom.gov.br / allyson.barros@ifrn.edu.br / allyson.barros@lais.huol.ufrn.br
+- 📫 &nbsp; How to reach me: allyson.barros@embratur.com.br / allyson.barros@ifrn.edu.br / allyson.barros@lais.huol.ufrn.br
 
 ## 🛠 &nbsp;Tech Stack
 
