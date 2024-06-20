@@ -4,7 +4,7 @@
 
 - 🔥 &nbsp; Passionate about technology and innovation since childhood, working in the Software Development area for over 10 years
 
-- 📡 &nbsp; I'm currently working as Data & Business Intelligence Manager at [Embratur](https://embratur.com.br/)
+- 📡 &nbsp; I'm currently working as Software Engineering and Digital Products Supervisor at [Embratur](https://embratur.com.br/)
 
 - 🔬 &nbsp; Also working as Research & Tech Lead making Science an instrument of fraternal love at [Laboratory of Technological Innovation in Health / LAIS](https://lais.huol.ufrn.br/en/)
 
